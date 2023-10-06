@@ -4,14 +4,17 @@ Projeto dedicado a aula de programação mobile da faculdade, a primeira tela an
 
 💻**Construção**
 
-A construção do código foi realizado com a linguagem de programação java
-com segmentos de programação orientada a objetos abstraindo o mundo real.
+Java 
+
+Android Studio
 
 📋**Pré-requisitos**
 
 Java 
 
 Android Studio
+
+Emulador android studio ou cabo usb para conectar no celular
 
 ▶️**Instalação**
 
